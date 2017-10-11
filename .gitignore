@@ -2,7 +2,6 @@
 *.pyc
 checkpoint/
 tensorboard/
-data/raw-data/
 data/segment/
 data/train/
 data/ids/
